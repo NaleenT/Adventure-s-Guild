@@ -145,8 +145,8 @@ section {
     width: 100%; 
     display: block; 
     height: auto; 
-    padding-top: 350px; /* This is spacer before the Main title Logo */ 
-    padding-bottom: 500px; /* This is spacer after the Main title Logo */ 
+    padding-top: 15vh; /* Spacer before logo */
+    padding-bottom: 15vh; /* Spacer after logo */
     color: #fff; 
 }
 
